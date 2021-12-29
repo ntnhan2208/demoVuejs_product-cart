@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Củ cải",
+    "img": "https://www.dropbox.com/s/yu983kvmlf1galh/cucai1.jpeg?raw=1",
+    "price": 30000,
+    "type": "Trong nước"
+  },
+  {
+    "id": 2,
+    "name": "Atisô",
+    "img": "https://www.dropbox.com/s/5l4ybuufu6hqp3i/atisojpg.jpg?raw=1",
+    "price": 70000,
+    "type": "Trong nước"
+  },
+  {
+    "id": 3,
+    "name": "Bông cải xanh",
+    "img": "https://www.dropbox.com/s/jdxt4pyi9t84a0t/bongcaixanh.jpg?raw=1",
+    "price": 35000,
+    "type": "Trong nước"
+  },
+  {
+    "id": 5,
+    "name": "Bắp cải",
+    "img": "https://www.dropbox.com/s/1fkgkna2i264jqq/bapcai.jpg?raw=1",
+    "price": 20000,
+    "type": "Trong nước"
+  },
+  {
+    "id": 6,
+    "name": "Cherry",
+    "img": "https://www.dropbox.com/s/u2l5ukgk2ku05lt/cherry.jpg?raw=1",
+    "price": 228000,
+    "type": "Nhập khẩu"
+  },
+  {
+    "id": 7,
+    "name": "Cà rốt",
+    "img": "https://www.dropbox.com/s/zknb8e0qsyu1vin/carot.jpg?raw=1",
+    "price": 32000,
+    "type": "Trong nước"
+  },
+  {
+    "id": 8,
+    "name": "Bắp",
+    "img": "https://www.dropbox.com/s/msmgrdj86uki45q/bap.jpg?raw=1",
+    "price": 23000,
+    "type": "Trong nước"
+  },
+  {
+    "id": 9,
+    "name": "Nho",
+    "img": "https://www.dropbox.com/s/8ah2ql0nmclh0l1/nho.jpg?raw=1",
+    "price": 130000,
+    "type": "Nhập khẩu"
+  },
+  {
+    "id": 10,
+    "name": "Dưa hấu",
+    "img": "https://www.dropbox.com/s/kdzdtll2dqiunpg/duahau.jpg?raw=1",
+    "price": 35000,
+    "type": "Trong nước"
+  },
+  {
+    "id": 11,
+    "name": "Cam",
+    "img": "https://www.dropbox.com/s/fymbx06d63hloqs/cam.jpg?raw=1",
+    "price": 20000,
+    "type": "Trong nước"
+  },
+  {
+    "id": 12,
+    "name": "Dứa",
+    "img": "https://www.dropbox.com/s/r30qr4lk7sp4fua/dua.jpg?raw=1",
+    "price": 15000,
+    "type": "Trong nước"
+  },
+  {
+    "id": 13,
+    "name": "Xoài",
+    "img": "https://www.dropbox.com/s/lf6ahej02vr56y5/xoai.jpg?raw=1",
+    "price": 22000,
+    "type": "Trong nước"
+  }
+]
