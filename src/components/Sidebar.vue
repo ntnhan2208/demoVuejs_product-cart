@@ -13,18 +13,18 @@
           <thead>
             <tr>
               <th class="center">Sản phẩm</th>
-              <th class="center">Giá</th>
+              <th class="center">Giá(VNĐ)</th>
               <th class="center">SL(kg)</th>
-              <th class="center">Tổng giá</th>
+              <th class="center">Tổng giá(VNĐ)</th>
               <th class="center"><span class="sr-only">Actions</span></th>
             </tr>
           </thead>
           <tbody>
             <tr v-for="(quantity,key,i) in cart" :key="i">
               <td class="center">{{key}}</td>
-              <td class="center">{{getPrice(key)}} VNĐ</td>
+              <td class="center">{{getPrice(key)}}</td>
               <td class="center">{{quantity}}</td>
-              <td class="center">{{(quantity*getPrice(key))}} VNĐ</td>
+              <td class="center">{{(quantity*getPrice(key))}}</td>
               <td class="center">
                 <button @click="remove(key)" class="btn btn-light cart-remove">
                   &times;
